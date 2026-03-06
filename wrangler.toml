@@ -1,0 +1,7 @@
+name = "portfolio-counter"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+[[kv_namespaces]]
+binding = "COUNTER"
+id = "453849cb491e487da5ca0103fb28fc86"
